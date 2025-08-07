@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(python:*)",
+      "Bash(pip show:*)",
+      "Bash(/mnt/c/Users/russe/anaconda3/envs/ipchat/python.exe main.py process-existing)",
+      "Bash(/mnt/c/Users/russe/anaconda3/envs/ipchat/python.exe test_single_json.py)"
+    ],
+    "deny": []
+  }
+}

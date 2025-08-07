@@ -1,0 +1,13 @@
+langextract
+langchain
+chromadb
+sentence-transformers
+pypdf2
+python-dotenv
+openai
+google-generativeai
+pandas
+numpy
+streamlit
+faiss-cpu
+tiktoken

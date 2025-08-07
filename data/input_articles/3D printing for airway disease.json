@@ -1,0 +1,5573 @@
+{
+  "version": {
+    "json_export": "203",
+    "page_segmentation": "5",
+    "schema": "1.1.0",
+    "structure": "1.1099.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "DB 9B 9C 68 5F BA B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "ID_permanent": "38 34 20 36 46 20 39 36 20 36 38 20 35 46 20 42 41 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "has_acroform": false,
+    "has_embedded_files": false,
+    "is_XFA": false,
+    "is_certified": false,
+    "is_encrypted": false,
+    "is_digitally_signed": false,
+    "language": "zh-CN",
+    "page_count": 8,
+    "pdf_version": "1.6",
+    "pdfa_compliance_level": "",
+    "pdfua_compliance_level": ""
+  },
+  "elements": [
+    {
+      "Bounds": [
+        45.35429382324219,
+        677.3043060302734,
+        277.0022430419922,
+        696.5843048095703
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "GLKHQH+HelveticaNeueLTPro-Bd",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1031,
+      "Page": 0,
+      "Path": "//Document/Title",
+      "Text": "3D printing for airway disease ",
+      "TextSize": 16.0,
+      "attributes": {
+        "LineHeight": 19.25,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        646.6390991210938,
+        471.6554260253906,
+        660.6311492919922
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1032,
+      "Page": 0,
+      "Path": "//Document/H1",
+      "Text": "Abdul Hamid Alraiyes1, Sameer K. Avasarala2, Michael S. Machuzak2, Thomas R. Gildea2 ",
+      "TextSize": 6.1215057373046875,
+      "attributes": {
+        "LineHeight": 12.625,
+        "SpaceAfter": 14.125
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        623.4602966308594,
+        553.0639190673828,
+        634.0649871826172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1033,
+      "Page": 0,
+      "Path": "//Document/Footnote",
+      "Text": "1Department of Pulmonary, Critical Care and Sleep Medicine, Rosalind Franklin University of Medicine and Science, North Chicago, IL, USA; ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 5.625,
+        "SpaceAfter": 3.5
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        610.4602966308594,
+        257.222900390625,
+        621.0649871826172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1034,
+      "Page": 0,
+      "Path": "//Document/Footnote[2]",
+      "Text": "2Respiratory Institute, Cleveland Clinic, Cleveland, OH, USA ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 5.625
+      }
+    },
+    {
+      "Bounds": [
+        45.35090637207031,
+        571.4602966308594,
+        552.2000122070312,
+        607.4842987060547
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "EYTBOL+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1035,
+      "Page": 0,
+      "Path": "//Document/Footnote[3]",
+      "Text": "Contributions: (I) Conception and design: TR Gildea; (II) Administrative support: None; (III) Provision of study materials or patients: TR Gildea, MS Machuzak; (IV) Collection and assembly of data: All authors; (V) Data analysis and interpretation: None; (VI) Manuscript writing: All authors; (VII) Final approval of manuscript: All authors. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35090637207031,
+        545.4602966308594,
+        552.8719635009766,
+        568.4842987060547
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "EYTBOL+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1036,
+      "Page": 0,
+      "Path": "//Document/P",
+      "Text": "Correspondence to: Thomas R. Gildea, MD, MS. Section Head of Bronchoscopy, 9500 Euclid Ave, Desk M2-141, Cleveland, OH 44195, USA. Email: Gildeat@ccf.org. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 13.5
+      }
+    },
+    {
+      "Bounds": [
+        102.04719543457031,
+        310.9562072753906,
+        496.49131774902344,
+        529.6952056884766
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "BBXDYR+Helvetica-AME",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1037,
+      "Page": 0,
+      "Path": "//Document/P[2]",
+      "Text": "Abstract: It has been 30 years since the first commercial three-dimensional (3D) printer was available on market. The technological advancement of 3D printing has far exceeded its implementation in medicine. The application of 3D printing technology has the potential of playing a major role within interventional pulmonology; specifically, in the management of complex airway disease. Tailoring management to the patient-specific anatomical malformation caused by benign or malignant disease is a major challenge faced by interventional pulmonologists. Such cases often require adjunctive therapeutic procedures with thermal therapies followed by dilation and airway stenting to maintain the patency of the airway. Airway-stent size matching is one key to reducing stent-related complications. A major barrier to matching is the expansion of the stent in two dimensions (fixed sizes in length and diameter) within the deformed airway. Additional challenges are created by the subjective oversizing of the stent to reduce the likelihood of migration. Improper sizing adversely affects the stability of the stent. The stent-airway mismatch can be complicated by airway erosion, perforation, or the formation of granulation tissue. Stents can migrate, fracture, obstruct, or become infected. The use of patient-specific 3D printed airway stents may be able to reduce the stent airway mismatch. These stents allow more precise stent-airway sizing and minimizes high-pressure points on distorted airway anatomy. In theory, this should reduce the incidence of the well-known complications of factory manufactured stents. In this article, the authors present the brief history of 3D printed stents, their consideration in select patients, processing steps for development, and future direction. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 9.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        102.04730224609375,
+        292.4642028808594,
+        387.72731018066406,
+        302.62420654296875
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "BBXDYR+Helvetica-AME",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1038,
+      "Page": 0,
+      "Path": "//Document/P[3]",
+      "Text": "Keywords: Airway stent; bronchoscopy; three-dimensional printing (3D printing) ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 12.875
+      }
+    },
+    {
+      "Bounds": [
+        102.04730224609375,
+        253.46420288085938,
+        391.53533935546875,
+        276.4882049560547
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1039,
+      "Page": 0,
+      "Path": "//Document/P[4]",
+      "Text": "Received: 15 January 2019; Accepted: 18 January 2019; Published: 13 February 2019. doi: 10.21037/amj.2019.01.05 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 3.375
+      }
+    },
+    {
+      "Bounds": [
+        102.04730224609375,
+        240.46420288085938,
+        322.19935607910156,
+        250.58419799804688
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1040,
+      "Page": 0,
+      "Path": "//Document/P[5]",
+      "Text": "View this article at: http://dx.doi.org/10.21037/amj.2019.01.05 ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        202.82479858398438,
+        289.14060974121094,
+        214.4907989501953
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "LVXLIX+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1041,
+      "Page": 0,
+      "Path": "//Document/H1[2]",
+      "Text": "History of three-dimensional (3D) airway stenting ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 7.5
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        69.65379333496094,
+        290.63148498535156,
+        192.97329711914062
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1042,
+      "Page": 0,
+      "Path": "//Document/P[6]",
+      "Text": "The birthplace of the silicone airway stent was Marseille, France in 1987 (1). Silicone stents were deployed via rigid bronchoscopy and came in different shapes (bronchial, tracheal, tracheobronchial Y, and hourglass) and sizes. This followed with the adaptation of self-expandable metal stents (SEMS) from the gastroenterology and their subsequent use within the tracheobronchial tree. Over the past few years, stent technology has rapidly matured. Advancements in biomedical engineering have given rise ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.875,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        69.61579895019531,
+        554.4745788574219,
+        214.3292999267578
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1043,
+      "Page": 0,
+      "Path": "//Document/P[7]",
+      "Text": "to patient-specific 3D printed stents (PS3DS). Although new stents are regularly introduced to the existing market, a “universally accepted” stent has yet to be developed (2). Like fingerprints, no two tracheobronchial diseases manifest alike, and the airway has dynamic motion with inspiration, expiration, and cough. Due to these intricacies, mass manufactured stents may not be the ideal solution for all patients or even groups of patients. Precision medicine focuses on optimizing efficiency or therapeutic benefit for a particular group of patients; it is being heavily researched in the disciplines of cardiology and oncology (3,4). Patient-",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.25,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        73.666748046875,
+        600.3978118896484,
+        257.9867401123047,
+        693.997802734375
+      ],
+      "ObjectID": 1375,
+      "Page": 1,
+      "Path": "//Document/Figure",
+      "attributes": {
+        "BBox": [
+          73.67699999999968,
+          600.375,
+          257.9899999999907,
+          693.9709999999905
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        561.3260040283203,
+        288.7857360839844,
+        598.0715026855469
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1376,
+      "Page": 1,
+      "Path": "//Document/P[8]",
+      "Text": "Figure 1 Formation of mucus plug within a stent. The inability to clear secretions due to the obstruction leads to the development of a pneumonia. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        79.37005615234375,
+        415.98426818847656,
+        263.69004821777344,
+        534.0642700195312
+      ],
+      "ObjectID": 1377,
+      "Page": 1,
+      "Path": "//Document/Figure[2]",
+      "attributes": {
+        "BBox": [
+          79.31679999999687,
+          415.9429999999993,
+          263.62899999998626,
+          534.0179999999818
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        377.1054992675781,
+        289.4982147216797,
+        413.8509979248047
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1378,
+      "Page": 1,
+      "Path": "//Document/P[9]",
+      "Text": "Figure 2 Stent fracture of a self-expanding metallic stent. This complication occurred in a patient who had excessive coughing due respiratory syncytial virus infection. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        326.1197052001953,
+        288.7622833251953,
+        351.0191955566406
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "Janson Text LT",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "monospaced": false,
+        "name": "KRIFUZ+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1379,
+      "Page": 1,
+      "Path": "//Document/P[10]",
+      "Text": "specific 3D airway stents can be seen in a similar light; the device is tailored to the patient, and not vice versa. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        294.0191955566406,
+        128.0185089111328,
+        305.68519592285156
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "LVXLIX+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1380,
+      "Page": 1,
+      "Path": "//Document/H1[3]",
+      "Text": "Airway anatomy ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.375
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        118.16470336914062,
+        290.30096435546875,
+        286.02020263671875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1381,
+      "Page": 1,
+      "Path": "//Document/P[11]",
+      "Text": "A tracheobronchial tree is unique for each person. It varies based on the age, gender, and height of an individual. Normal tracheal diameter ranges from 16–20 millimeters (mm) and the length 10–14 centimeters (cm). The trachea has a unique “D” shape on a cross-section with a flat membranous posterior wall and a cartilaginous anterior arch. The right main bronchus length is shorter than the left main bronchus (1.5 vs. 4.5 cm). This is due to the more proximal take off the right upper lobe in comparison to the left upper lobe. Both main bronchi range between 8–12 mm in diameter. As no two tracheobronchial trees are exactly alike, it is challenging to find a perfectly matching tracheobronchial stent when disease can alter all the dimensions differently. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        66.18069458007812,
+        290.6000061035156,
+        117.07220458984375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1392,
+      "Page": 1,
+      "Path": "//Document/P[12]/ParagraphSpan",
+      "Text": "Patient-specific 3D printed airway stents are typically considered in complex airway disorders, which are a heterogeneous group of pathologies. Airway narrowing or obstruction can produce a variety of respiratory symptoms ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        670.6846923828125,
+        553.4965515136719,
+        695.7362060546875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1393,
+      "Page": 1,
+      "Path": "//Document/P[12]/ParagraphSpan[2]",
+      "Text": "that can range from mild respiratory distress to profound respiratory failure and death. ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        552.3527069091797,
+        554.7368621826172,
+        669.4402008056641
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1383,
+      "Page": 1,
+      "Path": "//Document/P[13]",
+      "Text": "The compromise of airways can be due to benign or malignant processes. Examples of benign pathology include subglottic stenosis (post-intubation or due to inflammatory disorders such as granulomatosis with polyangiitis or sarcoidosis), tracheal or bronchial stenosis, tracheobronchomalacia, excessive dynamic airway collapse, non-malignant fistulas (tracheoesophageal, bronchoesophageal, or bronchopleural), or anastomotic complications amongst lung transplantation recipients (5). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        473.46470642089844,
+        553.9241485595703,
+        551.1082000732422
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1384,
+      "Page": 1,
+      "Path": "//Document/P[14]",
+      "Text": "Malignancy related airway obstruction can occur in primary lung cancer as well as metastatic disease (breast cancer, colon cancer, sarcoma, melanoma, renal cell cancer, etc.). Malignant airway obstruction can arise due to extrinsic compression, endobronchial obstruction, or a combination of both processes (6). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        441.0697021484375,
+        517.2648620605469,
+        452.73570251464844
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "LVXLIX+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1385,
+      "Page": 1,
+      "Path": "//Document/H1[4]",
+      "Text": "Current airway stenting practice patterns ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.625
+      }
+    },
+    {
+      "Bounds": [
+        308.9698028564453,
+        65.72470092773438,
+        554.3076324462891,
+        432.7761993408203
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1386,
+      "Page": 1,
+      "Path": "//Document/P[15]",
+      "Text": "Management of diseases compromising the tracheobronchial tree is highly viable and predicated on several factors: local practice pattern, equipment availability, operator preference and experience, etc. Often, treatment mandates frequent airway evaluation with bronchoscopy and interventions to recapture the airway such as sequential balloon dilation, mechanical debulking, non-mechanical debulking with a variety of tools (thermal, laser, or cryotherapy-based ablation modalities), and stent placement for airway stabilization. The stent plays the role of airway maintenance to enable proper ventilation of the lung parenchyma beyond the stricture in malignant airway disease and to enable proper healing with minimization of the narrowed area of the airway in a benign airway disease. Stent matching of the malformed anatomy is critical to minimize the friction effect between the stent and the mucosa. Undue friction can to granulation tissue formation, and subsequent restenosis. Interventional pulmonologists have been facing complex airway disease and implanting various tracheobronchial stents for decades. In current practice, silicone and SEMS are the two main groups of airway prostheses. Both can achieve airway patency and maintain ventilation of the lung parenchyma for a time. Without a precise fit into the area, complications can arise with either type of stent: plugging with or without concurrent infection (Figure 1), metal fatigue leading to fracture (Figure 2), migration (Figure 3), formation of granulation tissue (Figure 4), and mucosal incorporation with possible erosion and perforation (Figure 5) (7). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        73.66676330566406,
+        607.3682250976562,
+        257.98675537109375,
+        694.4882202148438
+      ],
+      "ObjectID": 1431,
+      "Page": 2,
+      "Path": "//Document/Figure[3]",
+      "attributes": {
+        "BBox": [
+          73.67699999999968,
+          607.3349999999919,
+          257.9899999999907,
+          694.4509999999718
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        568.5702056884766,
+        289.49322509765625,
+        605.3157043457031
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1432,
+      "Page": 2,
+      "Path": "//Document/P[16]",
+      "Text": "Figure 3 Proximal migration of straight silicone stent into the distal portion of the trachea. The stent was initially seated in the left main stem bronchus. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        73.66676330566406,
+        424.42840576171875,
+        257.98675537109375,
+        541.3084106445312
+      ],
+      "ObjectID": 1433,
+      "Page": 2,
+      "Path": "//Document/Figure[4]",
+      "attributes": {
+        "BBox": [
+          73.67699999999968,
+          424.46199999999953,
+          257.9899999999907,
+          541.3379999999888
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        394.32020568847656,
+        288.92201232910156,
+        418.06919860839844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1434,
+      "Page": 2,
+      "Path": "//Document/P[17]",
+      "Text": "Figure 4 Granulation tissue formation with complete occlusion at the distal end of a SEMS. SEMS, self-expandable metal stent. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        73.66676330566406,
+        240.5770721435547,
+        257.98675537109375,
+        367.05706787109375
+      ],
+      "ObjectID": 1435,
+      "Page": 2,
+      "Path": "//Document/Figure[5]",
+      "attributes": {
+        "BBox": [
+          73.67699999999968,
+          240.62999999999738,
+          257.9899999999907,
+          367.1049999999959
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        198.62469482421875,
+        289.5017395019531,
+        235.3701934814453
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1436,
+      "Page": 2,
+      "Path": "//Document/P[18]",
+      "Text": "Figure 5 Bronchoscopic image of tissue ingrowth through a fully covered SEMS. The tissue is seen growing over the nitinol wire frame. SEMS, self-expandable metal stent. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        69.65950012207031,
+        290.0349578857422,
+        172.53500366210938
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1437,
+      "Page": 2,
+      "Path": "//Document/P[19]",
+      "Text": "Silicone stents and SEMS have individual advantages and disadvantages (Table 1). There are a number of biophysical interactions that can have an adverse effect on the stent-airway interface. Self-expanding metallic stents are not static in size. Their lengths can change under compression through a phenomenon known as foreshortening. Coughing can cause mucosal trauma from the movement of wire edges which eventually can lead to granulation tissue formation (8). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        644.8085021972656,
+        553.6051635742188,
+        695.6999969482422
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1438,
+      "Page": 2,
+      "Path": "//Document/P[20]",
+      "Text": "Suboptimal pressure distribution can also cause damage to airway mucosa by impeding microcirculation and fibroblast proliferation (9). In some cases, the unequal pressure can lead to mucosal erosion and associated airway perforation. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        514.8484954833984,
+        554.5523071289062,
+        643.7160034179688
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1439,
+      "Page": 2,
+      "Path": "//Document/P[21]",
+      "Text": "Scar tissue and tumor respond differently to the expandable pressure generated by dilation of a stent. A stenosis may reopen easily with an expansile force but may not be able to resist compression due to adjacent tumor growth, this phenomenon is seen usually when balloon bronchoplasty is applied at the narrowed airway. Following dilation of the airway, there is a tendency to re-collapse due to external pressure from an extraluminal mass. This balance of viscoelastic factors is a complex, but an important interaction between the stent and the airway. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        371.8925018310547,
+        554.1538696289062,
+        513.7559967041016
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1440,
+      "Page": 2,
+      "Path": "//Document/P[22]",
+      "Text": "The silicone stent is cheaper when compared SEMS. Typically, they come in straight and Y varieties. The Y silicone stent is more predisposed to mucus build up, which can lead to plugging and infection. Straight silicone stents are more likely migrate when compared to their metallic counterparts (10). Due to its configuration, the Y silicone stent tends to migrate less when compared to their straight counterparts. For proper maintenance, silicone stents typically require, medication to help with mucus clearance, frequent surveillance bronchoscopies with stent revision (11,12). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        215.7884979248047,
+        554.4492645263672,
+        370.8000030517578
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1441,
+      "Page": 2,
+      "Path": "//Document/P[23]",
+      "Text": "Due to the materials used for production and the manufacturing process, SEMS are more expensive. When deployed, these stents expand within the airway. The expansive force must be optimized to reduce the risk of complications. Too much expansive radial force can cause tissue injury due to mucosal ischemia, while too little (or too much) can lead to stent migration (13). Metal fatigue and stent metal fragmentation are not uncommon phenomena (7,12). Stent deployment must be performed with care as the SEMS can follow the path of least resistance (non-stenotic airway segment) rather than staying engaged in the stenotic area (Figure 3). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        72.9844970703125,
+        554.3618469238281,
+        214.84800720214844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1442,
+      "Page": 2,
+      "Path": "//Document/P[24]",
+      "Text": "Although the SEMS that are currently available on the market comes in a variety of sizes, the problem of size mismatching between tracheobronchial is still encountered by many interventional pulmonologists (2). One of the options is to customize manufactured silicone stents to accommodate with the airway anatomy. These adjustments include cutting the silicone stent to fit the airway narrowing and avoid coverage of the main lobar outlets, using intussusception technique to extend the stent length to cover a larger area of stenosis (14), and suturing two different types of silicone stents together (Y stent and ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        683.460205078125,
+        327.67955017089844,
+        693.5802001953125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1533,
+      "Page": 3,
+      "Path": "//Document/P[25]",
+      "Text": "Table 1 Comparison of silicone stents and self-expanding metallic stents (SEMS) ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 8.5
+      }
+    },
+    {
+      "Bounds": [
+        50.9595947265625,
+        523.5516052246094,
+        530.6060638427734,
+        676.0796051025391
+      ],
+      "ObjectID": 1534,
+      "Page": 3,
+      "Path": "//Document/Table",
+      "attributes": {
+        "BBox": [
+          45.71809999999823,
+          537.2579999999725,
+          365.1449999999895,
+          679.4519999999902
+        ],
+        "NumCol": 3,
+        "NumRow": 9,
+        "Placement": "Block",
+        "SpaceAfter": 10.75
+      },
+      "filePaths": [
+        "tables/fileoutpart0.xlsx"
+      ]
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        666.5836029052734,
+        89.99955749511719,
+        676.0796051025391
+      ],
+      "ObjectID": 1657,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH",
+      "attributes": {
+        "BBox": [
+          45.35819999999876,
+          662.8929999999818,
+          176.63299999999435,
+          679.4519999999902
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 131.25
+      }
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        666.5836029052734,
+        89.99955749511719,
+        676.0796051025391
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1666,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH/P",
+      "Text": "Stent type ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        194.8795928955078,
+        666.5836029052734,
+        225.2476348876953,
+        676.0796051025391
+      ],
+      "ObjectID": 1658,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[2]",
+      "attributes": {
+        "BBox": [
+          176.63299999999435,
+          662.8929999999818,
+          365.1449999999895,
+          679.4519999999902
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 188.5
+      }
+    },
+    {
+      "Bounds": [
+        194.8795928955078,
+        666.5836029052734,
+        225.2476348876953,
+        676.0796051025391
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1663,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[2]/P",
+      "Text": "Silicone ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        375.2315979003906,
+        666.5836029052734,
+        399.6795959472656,
+        676.0796051025391
+      ],
+      "ObjectID": 1659,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[3]",
+      "attributes": {
+        "BBox": [
+          365.1449999999895,
+          662.8929999999818,
+          550.05799999999,
+          679.4519999999902
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 184.875
+      }
+    },
+    {
+      "Bounds": [
+        375.2315979003906,
+        666.5836029052734,
+        399.6795959472656,
+        676.0796051025391
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1660,
+      "Page": 3,
+      "Path": "//Document/Table/TR/TH[3]/P",
+      "Text": "SEMS ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        51.015594482421875,
+        650.0796051025391,
+        137.27157592773438,
+        659.5756072998047
+      ],
+      "ObjectID": 1645,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD",
+      "attributes": {
+        "BBox": [
+          45.71809999999823,
+          647.1729999999807,
+          176.63299999999435,
+          662.8929999999818
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 15.75,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 130.875
+      }
+    },
+    {
+      "Bounds": [
+        51.015594482421875,
+        650.0796051025391,
+        137.27157592773438,
+        659.5756072998047
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1654,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD/P",
+      "Text": "Deployment mechanics ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        194.87159729003906,
+        650.0796051025391,
+        299.9268493652344,
+        659.5756072998047
+      ],
+      "ObjectID": 1646,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[2]",
+      "attributes": {
+        "BBox": [
+          176.63299999999435,
+          647.1729999999807,
+          365.1449999999895,
+          662.8929999999818
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 15.75,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 188.5
+      }
+    },
+    {
+      "Bounds": [
+        194.87159729003906,
+        650.0796051025391,
+        299.9268493652344,
+        659.5756072998047
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1651,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[2]/P",
+      "Text": "Requires rigid bronchoscopy ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        375.2236022949219,
+        650.0796051025391,
+        529.3180389404297,
+        659.5756072998047
+      ],
+      "ObjectID": 1647,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[3]",
+      "attributes": {
+        "BBox": [
+          365.1449999999895,
+          647.1729999999807,
+          550.05799999999,
+          662.8929999999818
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 15.75,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 184.875
+      }
+    },
+    {
+      "Bounds": [
+        375.2236022949219,
+        650.0796051025391,
+        529.3180389404297,
+        659.5756072998047
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1648,
+      "Page": 3,
+      "Path": "//Document/Table/TR[2]/TD[3]/P",
+      "Text": "Rigid bronchoscopy is not always required ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        51.007598876953125,
+        633.5756072998047,
+        84.04763793945312,
+        643.0715942382812
+      ],
+      "ObjectID": 1632,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD",
+      "attributes": {
+        "BBox": [
+          45.71809999999823,
+          630.8539999999921,
+          176.63299999999435,
+          647.1729999999807
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 16.375,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 130.875
+      }
+    },
+    {
+      "Bounds": [
+        51.007598876953125,
+        633.5756072998047,
+        84.04763793945312,
+        643.0715942382812
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1642,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD/P",
+      "Text": "Infection ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        194.8636016845703,
+        633.5756072998047,
+        298.7195587158203,
+        643.0715942382812
+      ],
+      "ObjectID": 1633,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[2]",
+      "attributes": {
+        "BBox": [
+          176.63299999999435,
+          630.8539999999921,
+          365.1449999999895,
+          647.1729999999807
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 16.375,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 188.5
+      }
+    },
+    {
+      "Bounds": [
+        194.8636016845703,
+        633.5756072998047,
+        298.7195587158203,
+        643.0715942382812
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1639,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[2]/P",
+      "Text": "Higher likelihood of infection ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        375.2156066894531,
+        633.5756072998047,
+        480.39964294433594,
+        643.0715942382812
+      ],
+      "ObjectID": 1634,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[3]",
+      "attributes": {
+        "BBox": [
+          365.1449999999895,
+          630.8539999999921,
+          550.05799999999,
+          647.1729999999807
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 16.375,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 184.875
+      }
+    },
+    {
+      "Bounds": [
+        375.2156066894531,
+        633.5756072998047,
+        480.39964294433594,
+        643.0715942382812
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1635,
+      "Page": 3,
+      "Path": "//Document/Table/TR[3]/TD[3]/P",
+      "Text": "Lower likelihood of infection* ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        50.999603271484375,
+        617.0715942382812,
+        110.57565307617188,
+        626.5675964355469
+      ],
+      "ObjectID": 1620,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD",
+      "attributes": {
+        "BBox": [
+          45.71809999999823,
+          614.1749999999884,
+          176.63299999999435,
+          630.8539999999921
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 16.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 130.875
+      }
+    },
+    {
+      "Bounds": [
+        50.999603271484375,
+        617.0715942382812,
+        110.57565307617188,
+        626.5675964355469
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1629,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD/P",
+      "Text": "Mucus plugging ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        194.85560607910156,
+        617.0715942382812,
+        256.78358459472656,
+        626.5675964355469
+      ],
+      "ObjectID": 1621,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[2]",
+      "attributes": {
+        "BBox": [
+          176.63299999999435,
+          614.1749999999884,
+          365.1449999999895,
+          630.8539999999921
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 16.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 188.5
+      }
+    },
+    {
+      "Bounds": [
+        194.85560607910156,
+        617.0715942382812,
+        256.78358459472656,
+        626.5675964355469
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1626,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[2]/P",
+      "Text": "Higher likelihood ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        375.2075958251953,
+        617.0715942382812,
+        435.6475372314453,
+        626.5675964355469
+      ],
+      "ObjectID": 1622,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[3]",
+      "attributes": {
+        "BBox": [
+          365.1449999999895,
+          614.1749999999884,
+          550.05799999999,
+          630.8539999999921
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 16.625,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 184.875
+      }
+    },
+    {
+      "Bounds": [
+        375.2075958251953,
+        617.0715942382812,
+        435.6475372314453,
+        626.5675964355469
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1623,
+      "Page": 3,
+      "Path": "//Document/Table/TR[4]/TD[3]/P",
+      "Text": "Lower likelihood ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        50.99159240722656,
+        600.5675964355469,
+        86.84754943847656,
+        610.0635986328125
+      ],
+      "ObjectID": 1608,
+      "Page": 3,
+      "Path": "//Document/Table/TR[5]/TD",
+      "attributes": {
+        "BBox": [
+          45.71809999999823,
+          597.734999999986,
+          176.63299999999435,
+          614.1749999999884
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 4,
+        "Width": 130.875
+      }
+    },
+    {
+      "Bounds": [
+        50.99159240722656,
+        600.5675964355469,
+        86.84754943847656,
+        610.0635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1617,
+      "Page": 3,
+      "Path": "//Document/Table/TR[5]/TD/P",
+      "Text": "Migration ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        194.84759521484375,
+        600.5675964355469,
+        344.35162353515625,
+        610.0635986328125
+      ],
+      "ObjectID": 1609,
+      "Page": 3,
+      "Path": "//Document/Table/TR[5]/TD[2]",
+      "attributes": {
+        "BBox": [
+          176.63299999999435,
+          597.734999999986,
+          365.1449999999895,
+          614.1749999999884
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 4,
+        "Width": 188.5
+      }
+    },
+    {
+      "Bounds": [
+        194.84759521484375,
+        600.5675964355469,
+        344.35162353515625,
+        610.0635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1614,
+      "Page": 3,
+      "Path": "//Document/Table/TR[5]/TD[2]/P",
+      "Text": "Migration is common with straight variety ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        375.19960021972656,
+        600.5675964355469,
+        459.19960021972656,
+        610.0635986328125
+      ],
+      "ObjectID": 1610,
+      "Page": 3,
+      "Path": "//Document/Table/TR[5]/TD[3]",
+      "attributes": {
+        "BBox": [
+          365.1449999999895,
+          597.734999999986,
+          550.05799999999,
+          614.1749999999884
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 4,
+        "Width": 184.875
+      }
+    },
+    {
+      "Bounds": [
+        375.19960021972656,
+        600.5675964355469,
+        459.19960021972656,
+        610.0635986328125
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1611,
+      "Page": 3,
+      "Path": "//Document/Table/TR[5]/TD[3]/P",
+      "Text": "Lower risk of migration ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        50.98359680175781,
+        584.0635986328125,
+        74.82356262207031,
+        593.5596008300781
+      ],
+      "ObjectID": 1596,
+      "Page": 3,
+      "Path": "//Document/Table/TR[6]/TD",
+      "attributes": {
+        "BBox": [
+          45.71809999999823,
+          570.2569999999832,
+          176.63299999999435,
+          597.734999999986
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 27.5,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 130.875
+      }
+    },
+    {
+      "Bounds": [
+        50.98359680175781,
+        584.0635986328125,
+        74.82356262207031,
+        593.5596008300781
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1605,
+      "Page": 3,
+      "Path": "//Document/Table/TR[6]/TD/P",
+      "Text": "Sizing ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        194.839599609375,
+        573.0635986328125,
+        358.87158203125,
+        593.5596008300781
+      ],
+      "ObjectID": 1597,
+      "Page": 3,
+      "Path": "//Document/Table/TR[6]/TD[2]",
+      "attributes": {
+        "BBox": [
+          176.63299999999435,
+          570.2569999999832,
+          365.1449999999895,
+          597.734999999986
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 27.5,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 188.5
+      }
+    },
+    {
+      "Bounds": [
+        194.839599609375,
+        573.0635986328125,
+        358.87158203125,
+        593.5596008300781
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1602,
+      "Page": 3,
+      "Path": "//Document/Table/TR[6]/TD[2]/P",
+      "Text": "Adjustable with modifications such as cutting and suturing ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 10.875
+      }
+    },
+    {
+      "Bounds": [
+        375.1916046142578,
+        584.0635986328125,
+        471.35084533691406,
+        593.5596008300781
+      ],
+      "ObjectID": 1598,
+      "Page": 3,
+      "Path": "//Document/Table/TR[6]/TD[3]",
+      "attributes": {
+        "BBox": [
+          365.1449999999895,
+          570.2569999999832,
+          550.05799999999,
+          597.734999999986
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 27.5,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 184.875
+      }
+    },
+    {
+      "Bounds": [
+        375.1916046142578,
+        584.0635986328125,
+        471.35084533691406,
+        593.5596008300781
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1599,
+      "Page": 3,
+      "Path": "//Document/Table/TR[6]/TD[3]/P",
+      "Text": "Fixed manufactured sizing ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        50.97560119628906,
+        556.5596008300781,
+        70.08766174316406,
+        566.0556030273438
+      ],
+      "ObjectID": 1584,
+      "Page": 3,
+      "Path": "//Document/Table/TR[7]/TD",
+      "attributes": {
+        "BBox": [
+          45.71809999999823,
+          553.8169999999809,
+          176.63299999999435,
+          570.2569999999832
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 6,
+        "Width": 130.875
+      }
+    },
+    {
+      "Bounds": [
+        50.97560119628906,
+        556.5596008300781,
+        70.08766174316406,
+        566.0556030273438
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1593,
+      "Page": 3,
+      "Path": "//Document/Table/TR[7]/TD/P",
+      "Text": "Cost ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        194.83160400390625,
+        556.5596008300781,
+        233.799560546875,
+        566.0556030273438
+      ],
+      "ObjectID": 1585,
+      "Page": 3,
+      "Path": "//Document/Table/TR[7]/TD[2]",
+      "attributes": {
+        "BBox": [
+          176.63299999999435,
+          553.8169999999809,
+          365.1449999999895,
+          570.2569999999832
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 6,
+        "Width": 188.5
+      }
+    },
+    {
+      "Bounds": [
+        194.83160400390625,
+        556.5596008300781,
+        233.799560546875,
+        566.0556030273438
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1590,
+      "Page": 3,
+      "Path": "//Document/Table/TR[7]/TD[2]/P",
+      "Text": "Affordable ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        375.18359375,
+        556.5596008300781,
+        413.9996337890625,
+        566.0556030273438
+      ],
+      "ObjectID": 1586,
+      "Page": 3,
+      "Path": "//Document/Table/TR[7]/TD[3]",
+      "attributes": {
+        "BBox": [
+          365.1449999999895,
+          553.8169999999809,
+          550.05799999999,
+          570.2569999999832
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 6,
+        "Width": 184.875
+      }
+    },
+    {
+      "Bounds": [
+        375.18359375,
+        556.5596008300781,
+        413.9996337890625,
+        566.0556030273438
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1587,
+      "Page": 3,
+      "Path": "//Document/Table/TR[7]/TD[3]/P",
+      "Text": "Expensive ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        50.96760559082031,
+        540.0556030273438,
+        154.0956573486328,
+        549.5516052246094
+      ],
+      "ObjectID": 1572,
+      "Page": 3,
+      "Path": "//Document/Table/TR[8]/TD",
+      "attributes": {
+        "BBox": [
+          45.71809999999823,
+          537.2579999999725,
+          176.63299999999435,
+          553.8169999999809
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 7,
+        "Width": 130.875
+      }
+    },
+    {
+      "Bounds": [
+        50.96760559082031,
+        540.0556030273438,
+        154.0956573486328,
+        549.5516052246094
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1581,
+      "Page": 3,
+      "Path": "//Document/Table/TR[8]/TD/P",
+      "Text": "Granulation tissue formation ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        194.82359313964844,
+        540.0556030273438,
+        274.83958435058594,
+        549.5516052246094
+      ],
+      "ObjectID": 1573,
+      "Page": 3,
+      "Path": "//Document/Table/TR[8]/TD[2]",
+      "attributes": {
+        "BBox": [
+          176.63299999999435,
+          537.2579999999725,
+          365.1449999999895,
+          553.8169999999809
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 7,
+        "Width": 188.5
+      }
+    },
+    {
+      "Bounds": [
+        194.82359313964844,
+        540.0556030273438,
+        274.83958435058594,
+        549.5516052246094
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1578,
+      "Page": 3,
+      "Path": "//Document/Table/TR[8]/TD[2]/P",
+      "Text": "Comparable to SEMS ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        375.17559814453125,
+        540.0556030273438,
+        479.93560791015625,
+        549.5516052246094
+      ],
+      "ObjectID": 1574,
+      "Page": 3,
+      "Path": "//Document/Table/TR[8]/TD[3]",
+      "attributes": {
+        "BBox": [
+          365.1449999999895,
+          537.2579999999725,
+          550.05799999999,
+          553.8169999999809
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 16.5,
+        "InlineAlign": "Start",
+        "RowIndex": 7,
+        "Width": 184.875
+      }
+    },
+    {
+      "Bounds": [
+        375.17559814453125,
+        540.0556030273438,
+        479.93560791015625,
+        549.5516052246094
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1575,
+      "Page": 3,
+      "Path": "//Document/Table/TR[8]/TD[3]/P",
+      "Text": "Comparable to silicone stent ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        50.9595947265625,
+        523.5516052246094,
+        162.5099639892578,
+        533.047607421875
+      ],
+      "ObjectID": 1560,
+      "Page": 3,
+      "Path": "//Document/Table/TR[9]/TD",
+      "attributes": {
+        "BBox": [
+          45.71809999999823,
+          519.4989999999816,
+          176.63299999999435,
+          537.2579999999725
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 17.75,
+        "InlineAlign": "Start",
+        "RowIndex": 8,
+        "Width": 130.875
+      }
+    },
+    {
+      "Bounds": [
+        50.9595947265625,
+        523.5516052246094,
+        162.5099639892578,
+        533.047607421875
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1569,
+      "Page": 3,
+      "Path": "//Document/Table/TR[9]/TD/P",
+      "Text": "Airway perforation and erosion ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        194.8155975341797,
+        523.5516052246094,
+        267.6875457763672,
+        533.047607421875
+      ],
+      "ObjectID": 1561,
+      "Page": 3,
+      "Path": "//Document/Table/TR[9]/TD[2]",
+      "attributes": {
+        "BBox": [
+          176.63299999999435,
+          519.4989999999816,
+          365.1449999999895,
+          537.2579999999725
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 17.75,
+        "InlineAlign": "Start",
+        "RowIndex": 8,
+        "Width": 188.5
+      }
+    },
+    {
+      "Bounds": [
+        194.8155975341797,
+        523.5516052246094,
+        267.6875457763672,
+        533.047607421875
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1566,
+      "Page": 3,
+      "Path": "//Document/Table/TR[9]/TD[2]/P",
+      "Text": "Relatively lower risk ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        375.1676025390625,
+        523.5516052246094,
+        530.6060638427734,
+        533.047607421875
+      ],
+      "ObjectID": 1562,
+      "Page": 3,
+      "Path": "//Document/Table/TR[9]/TD[3]",
+      "attributes": {
+        "BBox": [
+          365.1449999999895,
+          519.4989999999816,
+          550.05799999999,
+          537.2579999999725
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 17.75,
+        "InlineAlign": "Start",
+        "RowIndex": 8,
+        "Width": 184.875
+      }
+    },
+    {
+      "Bounds": [
+        375.1676025390625,
+        523.5516052246094,
+        530.6060638427734,
+        533.047607421875
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1563,
+      "Page": 3,
+      "Path": "//Document/Table/TR[9]/TD[3]/P",
+      "Text": "Expandable pressure imparts a greater risk ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625
+      }
+    },
+    {
+      "Bounds": [
+        50.95159912109375,
+        508.2156066894531,
+        313.23883056640625,
+        517.7115936279297
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Neue LT Pro",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Neue LT Pro",
+        "font_type": "Type1",
+        "italic": false,
+        "monospaced": false,
+        "name": "ACIXKT+HelveticaNeueLTPro-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1535,
+      "Page": 3,
+      "Path": "//Document/Footnote[4]",
+      "Text": "*, fully covered metallic stents may have the same rate as silicone stents. ",
+      "TextSize": 8.0,
+      "attributes": {
+        "LineHeight": 9.625,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        429.7023010253906,
+        290.2483367919922,
+        481.6197967529297
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1536,
+      "Page": 3,
+      "Path": "//Document/P[26]",
+      "Text": "bronchial straight stent) to better approximate the size and length of the main bronchus (Figure 6). While these techniques are somewhat effective, they fail to achieve the desired degree of precision for stent-airway size matching. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.375,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.363800048828125,
+        396.9367980957031,
+        166.8782958984375,
+        408.60279846191406
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "LVXLIX+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1537,
+      "Page": 3,
+      "Path": "//Document/H1[5]",
+      "Text": "3D airway stent printing ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.875
+      }
+    },
+    {
+      "Bounds": [
+        45.363800048828125,
+        216.30380249023438,
+        290.8656463623047,
+        388.2633056640625
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1538,
+      "Page": 3,
+      "Path": "//Document/P[27]",
+      "Text": "In response to the limitations of commercially available stents, alternative methods of airway stent manufacturing such as custom 3D stent printing are being considered. The pioneers of 3D printing include Dr. Kodama, Charles Hull, and Charles Deckard. The application of 3D printing in medicine is not a novel concept. The medical industry accounts for over a quarter of the applications of 3D printing amongst various fields (15). Initially used for prototyping, 3D printing is now used to manufacture prosthesis, instruments, implants, and artificial organs for research purposes. With the right equipment and expertise, 3D printing can allow point-of-care fabrication of customized implants, including airway stents. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.375,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.363800048828125,
+        69.58580017089844,
+        290.95465087890625,
+        214.86929321289062
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1545,
+      "Page": 3,
+      "Path": "//Document/P[28]/ParagraphSpan",
+      "Text": "It must be kept in mind that the variability of build processes and high degree of customizability pose challenges to meeting regulatory standards and quality assurance (16). Conventional design validation for custom 3D printed airway stents is both labor and cost intensive. As an alternative, finite element analysis (FEA) can be used to predict the mechanical performance of a virtual device model (17). The use of FEA avoids the sacrifice of the printed device that would occur during conventional mechanical testing. The acceptance of conventional design validation by FEA has not been expressed by the United ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9888000488281,
+        442.9833068847656,
+        553.5666961669922,
+        481.56280517578125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1546,
+      "Page": 3,
+      "Path": "//Document/P[28]/ParagraphSpan[2]",
+      "Text": "States Food and Drug Administration (USFDA) (16). At present, very little guidance exists for quality assurance of 3D printed implantable devices. ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9888000488281,
+        256.2512969970703,
+        554.2511138916016,
+        441.5487976074219
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1540,
+      "Page": 3,
+      "Path": "//Document/P[29]",
+      "Text": "There are several key post-printing processes that are essential to the creation of any 3D printed medical device. Post-manufacturing processing is needed for any 3D printed stent. The method and materials used are dependent on the printing process that was utilized. Tumblers, sandblasting, or air-blasting may be needed. The International Organization of Standards (ISO) has published their standards for assessment of biocompatibility of medical devices, ISO 10993 (18). This 68-page document outlines the regulatory standards that must be followed for any device that will be directly or indirectly making contact with the body. Airway stents are considered class III devices by the USFDA (19). For class III devices, the USFDA has adopted and enforced the ISO recommendations. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.375,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9888000488281,
+        69.51930236816406,
+        554.2859649658203,
+        254.81680297851562
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1541,
+      "Page": 3,
+      "Path": "//Document/P[30]",
+      "Text": "Sterilization is also an important process that cannot be overlooked with 3D printing. The probability of a single unit being non-sterile after it has undergone sterilization is known as the sterility assurance level (SAL). The material used for printing, the availability of sterilization processes, and the interaction between the sterilization process and the printed material dictate the type of process used. The melting point of some printing materials (such as PCL) is below the temperature of conventional sterilization processes such as steam and ethylene oxide gas. A consensus strategy for the validation of sterility is yet to be developed. At present, the USFDA is also considering sterilization and subsequent reuse of 3D printed implantable medical devices (16). Whether such ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.375,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        115.11778259277344,
+        466.5250701904297,
+        479.78741455078125,
+        692.8082275390625
+      ],
+      "ObjectID": 1767,
+      "Page": 4,
+      "Path": "//Document/Figure[6]",
+      "attributes": {
+        "BBox": [
+          116.27499999999782,
+          467.7809999999881,
+          478.7809999999881,
+          691.6919999999809
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        437.0529022216797,
+        552.6950378417969,
+        460.80189514160156
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1768,
+      "Page": 4,
+      "Path": "//Document/P[31]",
+      "Text": "Figure 6 Silicone stents can be customized in a variety of ways to improve matching with the airway. Cutting and end-to-end suturing of multiple stents can help create a specific shape. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        373.08250427246094,
+        290.25921630859375,
+        410.9779968261719
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1769,
+      "Page": 4,
+      "Path": "//Document/P[32]",
+      "Text": "processes will be approved is yet to be determined; their applicability to PS3DS will likely be limited due to the patient-specific nature of the stent design. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        340.98199462890625,
+        145.08148193359375,
+        352.6479949951172
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "LVXLIX+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1770,
+      "Page": 4,
+      "Path": "//Document/H1[6]",
+      "Text": "3D printing process ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.625
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        152.13150024414062,
+        290.4261016845703,
+        332.9830017089844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1771,
+      "Page": 4,
+      "Path": "//Document/P[33]",
+      "Text": "Presently, the majority of 3D printing within medicine is for creating surgical guides and surgical planning (20). The application of 3D printing for custom implants (including airway stents) is still in its infancy. 3D printers have undergone significant enhancements in the current century. Unfortunately, there has been a delay in implementing this technology in pulmonary medicine; specifically, in the realm of PS3DS. A major barrier that contributed to this delay was the inability of the end-user (i.e., an interventional pulmonologist) to easily create a platform for the design and manufacturing of a PS3DS. Another bottleneck has been finding the optimal printing material that allows for easy deployment within the airway and counteracts luminal pressure to maintain airway patency. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        74.15550231933594,
+        290.19122314453125,
+        151.03900146484375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1917,
+      "Page": 4,
+      "Path": "//Document/P[34]/ParagraphSpan",
+      "Text": "The current technology used in 3D printing are the stereolithography, selective laser sintering (SLS), MultiJet modeling, and fused deposition modeling. The procedural details and materials needed vary from method to method. The US Food and Drug Administration approved multiple materials for medical 3D printing: polycaprolactone (PCL), ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        334.17999267578125,
+        554.1971740722656,
+        411.0635070800781
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1918,
+      "Page": 4,
+      "Path": "//Document/P[34]/ParagraphSpan[2]",
+      "Text": "polylactic acid (PLA), and poly lactic-co-glycolic acid (PLGA). These materials can be used alone or combined together to manufacture the final product. The mechanical characteristics of the printed device depend on the mixture ratio of PLA and PLGA. In addition to biocompatibility, both materials are biodegradable (21). ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        256.052001953125,
+        554.012939453125,
+        333.0874938964844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1773,
+      "Page": 4,
+      "Path": "//Document/P[35]",
+      "Text": "During the initial steps, CT subtraction imaging is used to create the platform for the prototype that will be used in the 3D printer. The CT chest imaging is used to create a 3D virtual model by calculating a centerline for the patient airway. Using this as a platform, the interventional pulmonologist is able to form a PS3DS (Figure 7). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        139.24000549316406,
+        554.4060668945312,
+        255.1114959716797
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1774,
+      "Page": 4,
+      "Path": "//Document/P[36]",
+      "Text": "The build of the 3D prototype starts by subtracting the data from the CT chest images and generating an image structure segmentation as digital imaging and communications in medicine (DICOM). The DICOM file is then converted to a standard tessellation language (STL) file generated by a computer-aided design program. The STL file can be used by the 3D printer to design the stent into several layers that range between 0.005 to 0.013 mm in thickness. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        74.25999450683594,
+        553.9192962646484,
+        138.1475067138672
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1775,
+      "Page": 4,
+      "Path": "//Document/P[37]",
+      "Text": "The costs of PS3DS can also vary widely. Overhead costs include the printer itself and the materials used for development of the prosthesis. Overall, the price per stent is difficult to estimate due to the wide variance of the costs for the process as a whole: printer, printing material, ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        80.62483215332031,
+        483.7022247314453,
+        251.02867126464844,
+        694.4882202148438
+      ],
+      "ObjectID": 1776,
+      "Page": 5,
+      "Path": "//Document/Figure[7]",
+      "attributes": {
+        "BBox": [
+          80.63669999999911,
+          483.7399999999907,
+          251.02999999999884,
+          694.4509999999718
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        414.6423034667969,
+        289.38706970214844,
+        477.38079833984375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1777,
+      "Page": 5,
+      "Path": "//Document/P[38]",
+      "Text": "Figure 7 Illustration of the prescription software using a virtual image to build a 3D stent platform. The virtual file generated by a computer-aided design from DICOM that converted to a STL. DICOM, digital imaging and communications in medicine; STL, standard tessellation language. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        347.8204040527344,
+        290.11293029785156,
+        386.20989990234375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1778,
+      "Page": 5,
+      "Path": "//Document/P[39]",
+      "Text": "imaging, practice prints, designing software, computer, and dedicated time. It is yet to be determined if PS3DS is a cost-effective option. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.25,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        315.2353973388672,
+        230.10169982910156,
+        326.9013977050781
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "LVXLIX+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1779,
+      "Page": 5,
+      "Path": "//Document/H1[7]",
+      "Text": "3D printing landscape in present day ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.75
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        228.6239013671875,
+        290.3389434814453,
+        306.7424011230469
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1780,
+      "Page": 5,
+      "Path": "//Document/P[40]",
+      "Text": "When compared to other subspecialties, interventional pulmonology in its adolescence. If plotted on the same time scale, the use of PS3DS in complex major airway disease is still in its infancy. Clinical trials do not exist, and long-term outcome data is years away. The current data regarding PS3DS is limited to a small number of case reports. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.25,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        69.70790100097656,
+        290.54920959472656,
+        227.28439331054688
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1906,
+      "Page": 5,
+      "Path": "//Document/P[41]/ParagraphSpan",
+      "Text": "The first published use of an airway PS3DS was in France. A PS3DS was used successfully in a patient with a complete stenosis of their bronchus intermedius with partial dehiscence of the bronchial anastomosis in their lung allograft (22). The patient in the study reported an immediate improvement in symptoms, there were no reported complications. Gildea and colleagues were the first to use a PS3DS in a human being. They later published their one-year experience with PS3DS in two patients with airway disease due to granulomatosis with polyangiitis (23); the report was the first of its kind in the United States. Both stents were removed after one year in order to deviation ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        566.2633972167969,
+        553.8249206542969,
+        695.7294006347656
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1907,
+      "Page": 5,
+      "Path": "//Document/P[41]/ParagraphSpan[2]",
+      "Text": "from standard of care with silicone stones and to comply with the obtained USFDA compassionate use exemption. Most recently, two silicone Y PS3DS were developed and implanted via a collaboration between physicians in Austria and the United States (24). Although not technically an airway stent, a 3D printed airway splint has been created and used in severe tracheobronchomalacia of infancy (25). Overall, there is a large gap in medical literature pertaining to PS3DS. There is no published outcome comparison data between PS3DS and standard airway stents (26). ",
+      "TextSize": 9.5
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        534.0299072265625,
+        396.5237274169922,
+        545.6959075927734
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "LVXLIX+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1782,
+      "Page": 5,
+      "Path": "//Document/H1[8]",
+      "Text": "Future directions ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.5
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        226.61940002441406,
+        554.2197875976562,
+        525.8979034423828
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1783,
+      "Page": 5,
+      "Path": "//Document/P[42]",
+      "Text": "With biomedical engineering evolving at a rapid rate, we anticipate the use of PS3DS to become more widespread. Technological advancement will make printing more widely available, faster, and cheaper. Patient-specific short tracheal cannulas can be developed from data from derived purely from imaging (27). We anticipate that with continued improvement with imaging and printing, PS3DS will be able to be printed to match the patient’s airway with extreme precision. Work is being undertaken to better optimize the stent-airway interaction with PS3DS. The ability to predict and test forces of the adjacent airway on the stent itself would be a major advancement in the field. A group from Spain has proposed a system of computer-based mathematical optimization of a stent. Unfortunately, it is not sustainable due to the high demand on processing power and expertise. Mitigation of infection risk with PS3DS is another arena of research. A variety of methods have been proposed, but their feasibility and ability to gain approval by regulatory bodies remains in question: bactericidal agent incorporation into the printing material or stent coating, combination of hot fused filament techniques or injection mold technique with a wet printing or electrospinning, and incorporation of antibiotics into polymers (28). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        308.9792938232422,
+        82.93190002441406,
+        554.4420623779297,
+        225.4604034423828
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1784,
+      "Page": 5,
+      "Path": "//Document/P[43]",
+      "Text": "To add another facet of complexity, the development of drug eluting stents is possible and has some potential advantages: reduction of granulation tissue formation and inhibition of tumor ingrowth. At this juncture, manufacturing is technically feasible, but it would be fraught with regulatory challenges. Once a drug is embedded, any stent is seen as a pharmaceutical product and not an implantable medical device (29). This would open the stent to the rigorous and more robust regulatory procedures faced by pharmaceutical products, and not simply a medical device. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        320.3222961425781,
+        69.86940002441406,
+        553.6053161621094,
+        81.77290344238281
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1785,
+      "Page": 5,
+      "Path": "//Document/P[44]",
+      "Text": "Airway stents are rarely implanted with the intention ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        566.0339965820312,
+        290.4585266113281,
+        695.6710052490234
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1786,
+      "Page": 6,
+      "Path": "//Document/P[45]",
+      "Text": "of being permanent. Biodegradable stents are currently available for use in the cardiovascular system (30). In the future, it is possible that similar technology may cross over into pulmonary medicine. Freitag and colleagues are developing and testing biodegradable airway stents in animal models (28). For optimal effect, the degradation time constants of these stents have to be well-studied as erratic and unpredictable dissolution can have adverse impacts on the airway. The consideration of their use is several years away. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        435.218994140625,
+        290.5126647949219,
+        564.8560028076172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1787,
+      "Page": 6,
+      "Path": "//Document/P[46]",
+      "Text": "In summary, PS3DS within the tracheobronchial tree are not yet ready for prime time. They are only being considered in the cases of compassionate use and are pending prospective studies. Further research is needed to assess their efficacy, safety, and practical feasibility. Their biggest advantage is the ability to be tailored specifically to a lesion in a patient’s airway. Although the early clinical experience is promising and the employed technology is exciting, the clinical value proposition is yet to be discerned in comparative clinical trials. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        402.9665069580078,
+        145.838623046875,
+        414.63250732421875
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "LVXLIX+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1788,
+      "Page": 6,
+      "Path": "//Document/H1[9]",
+      "Text": "Acknowledgements ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 8.25
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        382.75999450683594,
+        287.69305419921875,
+        394.8155059814453
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "EYTBOL+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1789,
+      "Page": 6,
+      "Path": "//Document/P[47]",
+      "Text": "Funding: NIH-NCAI grant support (grant 1U54HL119810-03). ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 18
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        350.6595001220703,
+        92.00492858886719,
+        362.32550048828125
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "LVXLIX+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1790,
+      "Page": 6,
+      "Path": "//Document/H1[10]",
+      "Text": "Footnote ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6.5
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        225.9530029296875,
+        290.6185607910156,
+        342.5084991455078
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": true,
+        "monospaced": false,
+        "name": "EYTBOL+JansonTextLT-Italic",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1791,
+      "Page": 6,
+      "Path": "//Document/P[48]",
+      "Text": "Conflicts of Interest: Cleveland Clinic and Cleveland Clinic Institutional Officials/Leaders have an equity interest in Custom Orthopaedic Solutions and are entitled to royalty payments from the company for technology developed at Cleveland Clinic. Custom Orthopaedic Solutions is the manufacturer the stent referrenced in the text. Dr. Gildea has Intellectual Property filed but no existing conflict as there is no commercial product at the time of this submission. ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 13.125,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        193.70050048828125,
+        105.0428466796875,
+        205.3665008544922
+      ],
+      "Font": {
+        "alt_family_name": "Helvetica Black",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Helvetica Black",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "LVXLIX+HelveticaBlack",
+        "subset": true,
+        "weight": 900
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1792,
+      "Page": 6,
+      "Path": "//Document/H1[11]",
+      "Text": "References ",
+      "TextSize": 9.5,
+      "attributes": {
+        "LineHeight": 11.375,
+        "SpaceAfter": 6
+      }
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        174.32620239257812,
+        54.68731689453125,
+        185.6031951904297
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1892,
+      "Page": 6,
+      "Path": "//Document/L/LI/Lbl",
+      "Text": "1. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        148.1721954345703,
+        285.2025451660156,
+        185.6031951904297
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1893,
+      "Page": 6,
+      "Path": "//Document/L/LI/LBody",
+      "Text": "Dutau H, Dumon JF. Airway Stenting Revisited: 30 Years, the Age of Reason? J Bronchology Interv Pulmonol 2017;24:257-9. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        135.09519958496094,
+        54.68731689453125,
+        146.3721923828125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1889,
+      "Page": 6,
+      "Path": "//Document/L/LI[2]/Lbl",
+      "Text": "2. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        122.01820373535156,
+        281.32525634765625,
+        146.3721923828125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1890,
+      "Page": 6,
+      "Path": "//Document/L/LI[2]/LBody",
+      "Text": "Folch E, Keyes C. Airway stents. Ann Cardiothorac Surg 2018;7:273-83. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        108.94119262695312,
+        54.68731689453125,
+        120.21820068359375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1886,
+      "Page": 6,
+      "Path": "//Document/L/LI[3]/Lbl",
+      "Text": "3. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        95.86419677734375,
+        287.27435302734375,
+        120.21820068359375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1887,
+      "Page": 6,
+      "Path": "//Document/L/LI[3]/LBody",
+      "Text": "Antman EM, Loscalzo J. Precision medicine in cardiology. Nat Rev Cardiol 2016;13:591-602. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.35429382324219,
+        82.78720092773438,
+        54.68731689453125,
+        94.06419372558594
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1883,
+      "Page": 6,
+      "Path": "//Document/L/LI[4]/Lbl",
+      "Text": "4. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36430358886719,
+        69.710205078125,
+        282.99037170410156,
+        94.06419372558594
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1884,
+      "Page": 6,
+      "Path": "//Document/L/LI[4]/LBody",
+      "Text": "Re A, Nardella C, Quattrone A, et al. Editorial: Precision Medicine in Oncology. Front Oncol 2018;8:479. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        684.3291931152344,
+        318.31532287597656,
+        695.606201171875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1880,
+      "Page": 6,
+      "Path": "//Document/L/LI[5]/Lbl",
+      "Text": "5. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        645.0982055664062,
+        528.5976257324219,
+        695.606201171875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1881,
+      "Page": 6,
+      "Path": "//Document/L/LI[5]/LBody",
+      "Text": "Bolliger CT, Mathur PN, Beamis JF, et al. ERS/ATS statement on interventional pulmonology. European Respiratory Society/American Thoracic Society. Eur Respir J 2002;19:356-73. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        632.0211944580078,
+        318.31532287597656,
+        643.2982025146484
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1877,
+      "Page": 6,
+      "Path": "//Document/L/LI[6]/Lbl",
+      "Text": "6. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        592.7902069091797,
+        528.2942657470703,
+        643.2982025146484
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1878,
+      "Page": 6,
+      "Path": "//Document/L/LI[6]/LBody",
+      "Text": "Ost DE, Ernst A, Grosu HB, et al. Complications Following Therapeutic Bronchoscopy for Malignant Central Airway Obstruction: Results of the AQuIRE Registry. Chest 2015;148:450-71. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        579.7131958007812,
+        318.31532287597656,
+        590.9902038574219
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1874,
+      "Page": 6,
+      "Path": "//Document/L/LI[7]/Lbl",
+      "Text": "7. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        553.5592041015625,
+        528.1323547363281,
+        590.9902038574219
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1875,
+      "Page": 6,
+      "Path": "//Document/L/LI[7]/LBody",
+      "Text": "Sabia M, Alraiyes AH, Dhillon SS, et al. Coughing a fragment without stent failure: a rare presentation of airway stent damage. Clin Respir J 2018;12:829-31. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        540.4821929931641,
+        318.31532287597656,
+        551.7592010498047
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1871,
+      "Page": 6,
+      "Path": "//Document/L/LI[8]/Lbl",
+      "Text": "8. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        514.3282012939453,
+        547.1852569580078,
+        551.7592010498047
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1872,
+      "Page": 6,
+      "Path": "//Document/L/LI[8]/LBody",
+      "Text": "Dinkel HP, Triller J. Primary and long-term success of percutaneous biliary metallic endoprotheses (Wallstents) in malignant obstructive jaundice. Rofo 2001;173:1072-8. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        501.25120544433594,
+        318.31532287597656,
+        512.5281982421875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1868,
+      "Page": 6,
+      "Path": "//Document/L/LI[9]/Lbl",
+      "Text": "9. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        475.0971984863281,
+        528.2853393554688,
+        512.5281982421875
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1869,
+      "Page": 6,
+      "Path": "//Document/L/LI[9]/LBody",
+      "Text": "Freitag L, Eicker R, Linz B, et al. Theoretical and experimental basis for the development of a dynamic airway stent. Eur Respir J 1994;7:2038-45. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        462.02020263671875,
+        322.9862976074219,
+        473.2971954345703
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1865,
+      "Page": 6,
+      "Path": "//Document/L/LI[10]/Lbl",
+      "Text": "10. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        422.78919982910156,
+        547.9862976074219,
+        473.2971954345703
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1866,
+      "Page": 6,
+      "Path": "//Document/L/LI[10]/LBody",
+      "Text": "Ost DE, Shah AM, Lei X, et al. Respiratory infections increase the risk of granulation tissue formation following airway stenting in patients with malignant airway obstruction. Chest 2012;141:1473-81. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        409.7122039794922,
+        322.9862976074219,
+        420.98919677734375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1862,
+      "Page": 6,
+      "Path": "//Document/L/LI[11]/Lbl",
+      "Text": "11. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        370.481201171875,
+        549.6494445800781,
+        420.98919677734375
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1863,
+      "Page": 6,
+      "Path": "//Document/L/LI[11]/LBody",
+      "Text": "Sehgal IS, Dhooria S, Madan K, et al. Placement of tracheobronchial silicone Y-stents: Multicenter experience and systematic review of the literature. Lung India 2017;34:311-7. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        357.4042053222656,
+        322.9862976074219,
+        368.6811981201172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1859,
+      "Page": 6,
+      "Path": "//Document/L/LI[12]/Lbl",
+      "Text": "12. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        331.2501983642578,
+        536.2862701416016,
+        368.6811981201172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1860,
+      "Page": 6,
+      "Path": "//Document/L/LI[12]/LBody",
+      "Text": "Lee HJ, Labaki W, Yu DH, et al. Airway stent complications: the role of follow-up bronchoscopy as a surveillance method. J Thorac Dis 2017;9:4651-9. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        318.17320251464844,
+        322.9862976074219,
+        329.4501953125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1856,
+      "Page": 6,
+      "Path": "//Document/L/LI[13]/Lbl",
+      "Text": "13. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        292.0191955566406,
+        529.6172943115234,
+        329.4501953125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1857,
+      "Page": 6,
+      "Path": "//Document/L/LI[13]/LBody",
+      "Text": "Murgu SD, Laxmanan B. Biomechanical Properties of Airway Stents: Implications for Clinical Practice. J Bronchology Interv Pulmonol 2016;23:89-91. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        278.94219970703125,
+        322.9862976074219,
+        290.2191925048828
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1853,
+      "Page": 6,
+      "Path": "//Document/L/LI[14]/Lbl",
+      "Text": "14. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        239.71119689941406,
+        544.2782745361328,
+        290.2191925048828
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1854,
+      "Page": 6,
+      "Path": "//Document/L/LI[14]/LBody",
+      "Text": "Alraiyes AH, Machuzak MS, Gildea TR. Intussusception technique of intrabronchial silicone stents: description of technique and a case report. J Bronchology Interv Pulmonol 2013;20:342-4. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        226.6342010498047,
+        322.9862976074219,
+        237.91119384765625
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1850,
+      "Page": 6,
+      "Path": "//Document/L/LI[15]/Lbl",
+      "Text": "15. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        200.48019409179688,
+        552.0093536376953,
+        237.91119384765625
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1851,
+      "Page": 6,
+      "Path": "//Document/L/LI[15]/LBody",
+      "Text": "Pravin S, Sudhir A. Integration of 3D printing with dosage forms: A new perspective for modern healthcare. Biomed Pharmacother 2018;107:146-54. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        187.4031982421875,
+        322.9862976074219,
+        198.68020629882812
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1847,
+      "Page": 6,
+      "Path": "//Document/L/LI[16]/Lbl",
+      "Text": "16. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        148.1721954345703,
+        522.8133239746094,
+        198.68020629882812
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1848,
+      "Page": 6,
+      "Path": "//Document/L/LI[16]/LBody",
+      "Text": "Morrison RJ, Kashlan KN, Flanangan CL, et al. Regulatory Considerations in the Design and Manufacturing of Implantable 3D-Printed Medical Devices. Clin Transl Sci 2015;8:594-600. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        135.09519958496094,
+        322.9862976074219,
+        146.3721923828125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1844,
+      "Page": 6,
+      "Path": "//Document/L/LI[17]/Lbl",
+      "Text": "17. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        82.78720092773438,
+        548.3193206787109,
+        146.3721923828125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1845,
+      "Page": 6,
+      "Path": "//Document/L/LI[17]/LBody",
+      "Text": "Randos C. Medical Device and Radiological Health Regulations Come of Age 1996; Available online: http://www.fda.gov/aboutfda/whatwedo/history/ productregulation/medicaldeviceandradiologicalhealthreg ulationscomeofage/default.htm. Accessed 11/23/2018. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.9822998046875,
+        69.710205078125,
+        322.9862976074219,
+        80.98719787597656
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1837,
+      "Page": 6,
+      "Path": "//Document/L/LI[18]/Lbl",
+      "Text": "18. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.99229431152344,
+        69.710205078125,
+        524.2893371582031,
+        80.98719787597656
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1839,
+      "Page": 6,
+      "Path": "//Document/L/LI[18]/LBody/ParagraphSpan",
+      "Text": "Services USDoHaH. Use of International Standard ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        619.3516998291016,
+        286.67820739746094,
+        696.3647003173828
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1681,
+      "Page": 7,
+      "Path": "//Document/L/LI[18]/LBody/L/LI/LBody",
+      "Text": "ISO‐10993, Biological Evaluation of Medical Devices Part 1: Evaluation and Testing. Draft Guidance for Industry and Food and Drug Administration Staff 2013; Available online: http://www.fda.gov/downloads/MedicalDevices/ DeviceRegulationandGuidance/GuidanceDocuments/ UCM348890.pdf. Accessed 11/23/2018. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        606.3287048339844,
+        59.356201171875,
+        617.6056976318359
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1682,
+      "Page": 7,
+      "Path": "//Document/L/LI[19]/Lbl",
+      "Text": "19. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        554.3446960449219,
+        282.92254638671875,
+        617.6056976318359
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1683,
+      "Page": 7,
+      "Path": "//Document/L/LI[19]/LBody",
+      "Text": "Administration USFaD. Learn if a Medical Device Has Been Cleared by FDA for Marketing. Consumers (Medical Devices). Available online: https://www.fda.gov/ medicaldevices/resourcesforyou/consumers/ucm142523. htm. Accessed 12/04/2018. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        541.3307037353516,
+        59.356201171875,
+        552.6076965332031
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1684,
+      "Page": 7,
+      "Path": "//Document/L/LI[20]/Lbl",
+      "Text": "20. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        515.3386993408203,
+        286.74658203125,
+        552.6076965332031
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1685,
+      "Page": 7,
+      "Path": "//Document/L/LI[20]/LBody",
+      "Text": "Tack P, Victor J, Gemmel P, et al. 3D-printing techniques in a medical setting: a systematic literature review. Biomed Eng Online 2016;15:115. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        502.3336944580078,
+        59.356201171875,
+        513.6107025146484
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1686,
+      "Page": 7,
+      "Path": "//Document/L/LI[21]/Lbl",
+      "Text": "21. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        476.3417053222656,
+        273.83514404296875,
+        513.6107025146484
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1687,
+      "Page": 7,
+      "Path": "//Document/L/LI[21]/LBody",
+      "Text": "Shive MS, Anderson JM. Biodegradation and biocompatibility of PLA and PLGA microspheres. Adv Drug Deliv Rev 1997;28:5-24. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        463.3367004394531,
+        59.356201171875,
+        474.6136932373047
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1688,
+      "Page": 7,
+      "Path": "//Document/L/LI[22]/Lbl",
+      "Text": "22. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        424.34869384765625,
+        275.5091857910156,
+        474.6136932373047
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1689,
+      "Page": 7,
+      "Path": "//Document/L/LI[22]/LBody",
+      "Text": "Guibert N, Didier A, Moreno B, et al. Treatment of Post-transplant Complex Airway Stenosis with a Three-Dimensional, Computer-assisted Customized Airway Stent. Am J Respir Crit Care Med 2017;195:e31-3. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        45.352203369140625,
+        411.3437042236328,
+        59.356201171875,
+        422.6206970214844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1690,
+      "Page": 7,
+      "Path": "//Document/L/LI[23]/Lbl",
+      "Text": "23. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        62.36219787597656,
+        385.35169982910156,
+        275.4164276123047,
+        422.6206970214844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1691,
+      "Page": 7,
+      "Path": "//Document/L/LI[23]/LBody",
+      "Text": "Gildea TR, Young BP, Machuzak MS. Application of 3D Printing for Patient-Specific Silicone Stents: 1-Year Follow-Up on 2 Patients. Respiration 2018;96:488-94. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.8182067871094,
+        684.3497009277344,
+        322.82220458984375,
+        695.6266937255859
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1692,
+      "Page": 7,
+      "Path": "//Document/L/LI[24]/Lbl",
+      "Text": "24. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.8282012939453,
+        632.3657073974609,
+        530.3324890136719,
+        695.6266937255859
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1693,
+      "Page": 7,
+      "Path": "//Document/L/LI[24]/LBody",
+      "Text": "Schweiger T, Gildea TR, Prosch H, et al. Patient-specific, 3-dimensionally engineered silicone Y-stents in tracheobronchomalacia: Clinical experience with a novel type of airway stent. J Thorac Cardiovasc Surg 2018;156:2019-21. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.8182067871094,
+        619.3516998291016,
+        322.82220458984375,
+        630.6286926269531
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1694,
+      "Page": 7,
+      "Path": "//Document/L/LI[25]/Lbl",
+      "Text": "25. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.8282012939453,
+        593.3596954345703,
+        544.4256286621094,
+        630.6286926269531
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1695,
+      "Page": 7,
+      "Path": "//Document/L/LI[25]/LBody",
+      "Text": "Zopf DA, Hollister SJ, Nelson ME, et al. Bioresorbable airway splint created with a three-dimensional printer. N Engl J Med 2013;368:2043-5. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.8182067871094,
+        580.3547058105469,
+        322.82220458984375,
+        591.6316986083984
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1696,
+      "Page": 7,
+      "Path": "//Document/L/LI[26]/Lbl",
+      "Text": "26. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.8282012939453,
+        567.3587036132812,
+        542.7552185058594,
+        591.6316986083984
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1697,
+      "Page": 7,
+      "Path": "//Document/L/LI[26]/LBody",
+      "Text": "Sabath BF, Ost DE. Update on airway stents. Curr Opin Pulm Med 2018;24:343-9. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.8182067871094,
+        554.3627014160156,
+        322.82220458984375,
+        565.6396942138672
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1698,
+      "Page": 7,
+      "Path": "//Document/L/LI[27]/Lbl",
+      "Text": "27. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.8282012939453,
+        528.3706970214844,
+        548.7491760253906,
+        565.6396942138672
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1699,
+      "Page": 7,
+      "Path": "//Document/L/LI[27]/LBody",
+      "Text": "Müller R, Meissner H, Bottcher G, et al. Development and first data of a customized short tracheal cannula based on digital data. Support Care Cancer 2015;23:3089-93. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.8182067871094,
+        515.3657073974609,
+        322.82220458984375,
+        526.6427001953125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1700,
+      "Page": 7,
+      "Path": "//Document/L/LI[28]/Lbl",
+      "Text": "28. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.8282012939453,
+        476.37770080566406,
+        525.1503448486328,
+        526.6427001953125
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1701,
+      "Page": 7,
+      "Path": "//Document/L/LI[28]/LBody",
+      "Text": "Freitag L, Gordes M, Zarogoulidis P, et al. Towards Individualized Tracheobronchial Stents: Technical, Practical and Legal Considerations. Respiration 2017;94:442-56. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.8182067871094,
+        463.37269592285156,
+        322.82220458984375,
+        474.6497039794922
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1702,
+      "Page": 7,
+      "Path": "//Document/L/LI[29]/Lbl",
+      "Text": "29. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.8282012939453,
+        437.3807067871094,
+        537.4631958007812,
+        474.6497039794922
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1703,
+      "Page": 7,
+      "Path": "//Document/L/LI[29]/LBody",
+      "Text": "Boam AB. Regulatory issues facing the development of drug-eluting stents: a US FDA perspective. Expert Rev Med Devices 2006;3:297-300. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        308.8182067871094,
+        424.3757019042969,
+        322.82220458984375,
+        435.65269470214844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1704,
+      "Page": 7,
+      "Path": "//Document/L/LI[30]/Lbl",
+      "Text": "30. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        325.8282012939453,
+        385.3876953125,
+        550.2882232666016,
+        435.65269470214844
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "ObjectID": 1705,
+      "Page": 7,
+      "Path": "//Document/L/LI[30]/LBody",
+      "Text": "Im SH, Jung Y, Kim SH. Current status and future direction of biodegradable metallic and polymeric vascular scaffolds for next-generation stents. Acta Biomater 2017;60:3-22. ",
+      "TextSize": 9.0
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        347.84320068359375,
+        160.29962158203125,
+        358.4936981201172
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "GBSNQH+JansonTextLT-Roman",
+        "subset": true,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1706,
+      "Page": 7,
+      "Path": "//Document/Aside/P",
+      "Text": "doi: 10.21037/amj.2019.01.05 ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 10.25
+      }
+    },
+    {
+      "Bounds": [
+        51.02360534667969,
+        308.85369873046875,
+        284.05345153808594,
+        345.5991973876953
+      ],
+      "Font": {
+        "alt_family_name": "Janson Text LT",
+        "embedded": true,
+        "encoding": "WinAnsiEncoding",
+        "family_name": "Janson Text LT",
+        "font_type": "TrueType",
+        "italic": false,
+        "monospaced": false,
+        "name": "EILVOL+JansonTextLT-Bold",
+        "subset": true,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "ObjectID": 1707,
+      "Page": 7,
+      "Path": "//Document/Aside/P[2]",
+      "Text": "Cite this article as: Alraiyes AH, Avasarala SK, Machuzak MS, Gildea TR. 3D printing for airway disease. AME Med J 2019;4:14. ",
+      "TextSize": 8.5,
+      "attributes": {
+        "LineHeight": 13,
+        "SpaceAfter": 18,
+        "TextAlign": "Justify"
+      }
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 1,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 2,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 3,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 4,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 5,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 6,
+      "rotation": 0,
+      "width": 595.2760009765625
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ],
+        "MediaBox": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          779.5280151367188
+        ]
+      },
+      "height": 779.5280151367188,
+      "is_scanned": false,
+      "page_number": 7,
+      "rotation": 0,
+      "width": 595.2760009765625
+    }
+  ]
+}
