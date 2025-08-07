@@ -330,6 +330,23 @@ class DocumentProcessor:
             doc_data = extracted_data
             metadata = extracted_data.get('metadata', {})
         
+        # If doc_data is a list (for example, a list of extraction dictionaries),
+        # convert it into a dictionary keyed by extraction class. Each list
+        # element becomes a list of `extraction_text` values under its
+        # extraction_class key. Non-dict elements are grouped under the `items`
+        # key. This conversion ensures that doc_data behaves like a mapping and
+        # can be iterated over safely when constructing the main overview chunk.
+        if isinstance(doc_data, list):
+            processed_dict = {}
+            for item in doc_data:
+                if isinstance(item, dict):
+                    extraction_class = item.get('extraction_class', 'unknown')
+                    extraction_text = item.get('extraction_text', '') or str(item)
+                    processed_dict.setdefault(extraction_class, []).append(extraction_text)
+                else:
+                    processed_dict.setdefault('items', []).append(str(item))
+            doc_data = processed_dict
+        
         # Create main content chunk
         main_chunk = {
             'text': f"Document Type: {doc_type}\nSource: {filename}\n\n",
